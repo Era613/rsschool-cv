@@ -1,9 +1,22 @@
-##Привет, меня зовут Стас, тут я тренируюсь делать разметку Markdown##
+# **Stanislav Belyavski**
+**Contacts**
+* **Discord:** Era613
+* **Email:** ultra.skiy@gmail.com
+* **Tel:** +375293481911
 
-Стало интересно добавить списки во все разметки
-1.*Я попробую все виды разметок*
-2.**Тут будет жирный текст**
-3.**А тут я попробую сделать _курсив_ прямо в жирном тексте**
-4.__На всякий случай оставлю ссылку на свой гитхаб *https://github.com/Era613/rsschool-cv.git*__
+# **About my self:**
+ I really like learning something new. I really like the field in which I am currently studying, so I have a lot of motivation and I want to study.
+
+# **Code example:**
+Nothing
+
+# **Work expirence:**
+Nothing
+
+# **Education and course:**
+Nothing
+
+# **Language:**
+English level - A1
 
 
