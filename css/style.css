@@ -21,7 +21,11 @@ body {
 }
 
 .main_content {
-
+    display: flex;
+    max-width: 1024px;
+    height: 100vh;
+    margin: auto;
+    border: solid black 1px;
 }
 
 .photo img {
@@ -30,6 +34,16 @@ body {
 }
 
 .line_contacts {
+    height: 1px;
+    width: 100$;
+    background-color: silver;
+}
+
+.phone {
+    max-height: ;
+}
+
+.line_skills {
     height: 1px;
     width: 100$;
     background-color: silver;
