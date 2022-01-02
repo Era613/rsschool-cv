@@ -8,16 +8,20 @@ body {
     margin: 0 auto;
     font-family: 'Quicksand', sans-serif;
     padding: 2em;
-    background-color: rgb(150,73,48);
+    background-color: rgb(160, 117, 37);
 
 }
 
 .left_section {
     display: flex;
-    padding: 1rem;
+    padding: 12px;
     color: silver;
     flex-direction: column;
     justify-content: flex-start;
+    flex-wrap: wrap;
+    max-width: 200px;
+    background-color: black;
+
 }
 
 .main_content {
@@ -35,7 +39,7 @@ body {
 
 .line_contacts {
     height: 1px;
-    width: 100$;
+    width: 100%;
     background-color: silver;
 }
 
@@ -43,8 +47,29 @@ body {
     max-height: ;
 }
 
+
 .line_skills {
     height: 1px;
-    width: 100$;
+    width: 100%;
+    background-color: silver;
+}
+
+.line_about_me {
+    height: 1px;
+    width: 100%;
+    background-color: silver;
+}
+
+.right_section {
+    display: flex;
+    padding: 12px;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.line_expirience {
+    height: 1px;
+    width: 100%;
     background-color: silver;
 }
