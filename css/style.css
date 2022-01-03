@@ -121,3 +121,13 @@ body {
 .footer_name {
     margin-top: 15px;
 }
+
+.code_wars  {
+    font-weight: bold;
+    background-color: rgb(160, 124, 57);
+}
+
+.code_wars p {
+    padding: 0px;
+    margin: 0px;
+}
